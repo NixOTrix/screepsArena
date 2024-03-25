@@ -1,3 +1,10 @@
+/* 
+    Tutorial seems to be too easy to complete
+    I have not tested it, but it appears that a single melee unit
+    has enough dmg to finish off the attackers.
+    Also the attacekr AI makes them rush for the spawner and ignore other units.
+*/
+
 import { } from 'game/utils';
 import { } from 'game/prototypes';
 import { TOUGH, ATTACK, RANGED_ATTACK, HEAL, WORK, CARRY, MOVE, RESOURCE_ENERGY, ERR_NOT_IN_RANGE } from 'game/constants';
